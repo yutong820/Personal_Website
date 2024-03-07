@@ -1,0 +1,91 @@
+#container {
+    margin-top: 10%;
+    min-height: 100vh;
+}
+
+h2 {
+    color: grey;
+    font-size: 34px;
+    text-align: center;
+}
+
+#blog-options {
+    text-align: center;
+    min-height: 10vh;
+    width: 80%;
+    margin-left: 10%;
+    word-break: break-word;
+    line-height: 2.5;
+
+    .option {
+        border: 1px solid grey;
+        padding: 5px;
+        text-align: center;
+        margin: 5px;
+        border-radius: 5px;
+        min-width: 8ch;
+        text-decoration: none;
+        color: black;
+    }
+
+    .option:hover {
+        background-color: black;
+        color: white;
+    }
+}
+
+#blog-displayer {
+    border-radius: 5px;
+    margin: 5px;
+    background-color: white;
+    border: 1px solid lightgrey;
+    cursor: pointer;
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .image {
+        height: 20vh;
+        background-color: grey;
+    }
+
+    .title {  
+        color: black;
+        font-size: 22px;
+        padding: 5%;
+        height: 10vh;
+    }
+
+    .topics {
+        color: black;
+        padding: 5%;
+    }
+}
+
+#blog-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: left;
+    width: 80%;
+    margin-left: 10%;
+}
+
+@media only screen and (max-width: 899px) {
+    #blog-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        text-align: left;
+    }
+}
+
+
+@media only screen and (max-width: 499px) {
+    #blog-grid {
+        display: block;
+    }
+    #container {
+        padding-top: 10%;
+    }
+}

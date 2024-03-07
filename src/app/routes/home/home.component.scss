@@ -1,0 +1,63 @@
+#home {
+    margin-bottom: 50px;
+    text-align: center;
+
+    #about-me {
+        background-color: black;
+        color: white;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        height: 100vh;
+        font-size: 35px;
+        top: 50%;
+        justify-content: center;
+        align-items: center;
+
+        #description {
+            text-align: left;
+        }
+
+        a {
+            color: white;
+            margin: 3px;
+        }
+    }
+
+    #more-me {
+        margin-top: 10%;
+        margin-bottom: 10%;
+        width: 60%;
+        margin-left: 20%;
+        p {
+            text-align: left;
+            font-size: 20px;
+        }
+
+        h2 {
+            color: grey;
+            font-size: 34px;
+        }
+    }
+
+    hr {
+        width: 70%;
+        margin-left: 15%;
+        border: 1px solid lightgrey;
+    }
+}
+
+@media only screen and (max-width: 499px) {
+    #home {
+        margin-bottom: 150px;
+        #about-me {
+            display: block;
+            padding: 2%;
+            padding-top: 40%;
+        }
+
+        #more-me {
+            width: 80%;
+            margin-left: 10%;
+        }
+    }
+}

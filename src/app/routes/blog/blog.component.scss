@@ -1,0 +1,26 @@
+#blog-container {
+    margin-top: 10%;
+    width: 60%;
+    margin-left: 20%;
+    min-height: 100vh;
+    font-size: 22px;
+}
+app-blog-displayer {
+    text-align: center;
+}
+#margin {
+    height: 20vh;
+}
+hr {
+    width: 70%;
+    margin-left: 15%;
+    border: 1px solid lightgrey;
+}
+
+@media only screen and (max-width: 499px) {
+    #blog-container {
+        margin-top: 25vh;
+        width: 80%;
+        margin-left: 10%;
+    }
+}

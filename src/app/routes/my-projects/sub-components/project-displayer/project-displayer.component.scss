@@ -1,0 +1,25 @@
+#project-displayer {
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    margin: 5px;
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
+
+    #name {
+        background-color: lightgrey;
+        color: black;
+        font-size: 22px;
+        padding: 1%;
+    }
+
+    #description, #languages {
+        padding: 2%;
+    }
+
+    #description {
+        height: 15vh;
+    }
+}

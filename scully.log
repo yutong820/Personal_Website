@@ -1,0 +1,687 @@
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+(You can skip this, or any future question by using the --noPrompt flag)
+No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------
+
+
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. Skipping
+
+
+
+----------------------------------
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. Skipping
+
+
+
+
+ Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"No configuration for route "/blog/:topic/:title" found. SkippingUsing stored unhandled routes!.----------------------------------No configuration for route "/blogs/:topic" found. Skipping
+
+
+
+
+
+handleUnknownRoute: "/assets/blog-content/programming/italian-basketball-team-journey.md", 404:""
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+handleUnknownRoute: "/angular-personal-website/blog/stories/this-is-my-story", 404:""
+handleUnknownRoute: "/angular-personal-website/blog/programming/why-i-love-angular", 404:""
+handleUnknownRoute: "/angular-personal-website/blog/programming/why-i-love-angular", 404:""
+handleUnknownRoute: "/angular-personal-website/blogs/sport", 404:""
+handleUnknownRoute: "/angular-personal-website/", 404:""
+handleUnknownRoute: "/angular-personal-website", 404:""
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+handleUnknownRoute: "/angular-personal-website/projects", 404:""
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+handleUnknownRoute: "/angular-personal-website/", 404:""
+handleUnknownRoute: "/angular-personal-website/", 404:""
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingUsing stored unhandled routes!.No configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"Using stored unhandled routes!.----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.----------------------------------No configuration for route "/blogs/:topic" found. Skipping   To discover new routes in the angular app use "npx scully --scanRoutes"No configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"No configuration for route "/blog/:topic/:title" found. SkippingUsing stored unhandled routes!.----------------------------------No configuration for route "/blogs/:topic" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blog/:topic/:title" found. SkippingNo configuration for route "/blogs/:topic" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping----------------------------------
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------Using stored unhandled routes!.No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+
+handleUnknownRoute: "/angular-personal-website/blogs", 404:""
+handleUnknownRoute: "/angular-personal-website/blogs/programming", 404:""
+handleUnknownRoute: "/angular-personal-website/blogs/programming/", 404:""
+handleUnknownRoute: "/projects/", 404:""
+Folder "./scully" doesn't seem to contain custom plugins Deprecation Notice:
+       ======================================================================
+         From now on, the plugin that is being used to render a route is
+         able to be changed by the user. You can do this by adding or
+         enabling the plugin your scully.angular-personal-website.config.ts
+         file. For your convenience, we loaded the Puppeteer plugin for you.
+
+         To disable this warning enable the plugin of your choice.
+         for Puppeteer please add:
+             import '@scullyio/scully-plugin-puppeteer';
+          to your scully.angular-personal-website.config.ts file.
+
+          When you get this warning while not using scully-plugin-puppeteer
+          you need to set the defaultRouteRenderer to the name of your plugin.
+          The defaultRouteRenderer is now set to 'routeRenderer'.
+       ======================================================================
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npx scully --scanRoutes"----------------------------------No configuration for route "/blogs/:topic" found. SkippingNo configuration for route "/blog/:topic/:title" found. Skipping
+
+
+
+
+

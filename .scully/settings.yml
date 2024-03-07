@@ -1,0 +1,11 @@
+identifier: l2m2gce9x6334ba0
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: angular-personal-website
+homeFolder: C:\Users\PC\My Angular Programs\angular-personal-website
+distFolder: ./dist/angular-personal-website
+outDir: C:\Users\PC\My Angular Programs\angular-personal-website\docs
+handle404: ''
+allowErrorCollect: false

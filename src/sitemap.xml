@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/projects/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blogs/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blogs/programming/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blogs/sport/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blogs/education/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blogs/stories/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blogs/gaming/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blogs/music/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blog/stories/this-is-my-story/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blog/stories/italy-is-not-for-young-people/</loc>
+  <priority>0.80</priority>
+</url><url>
+  <loc>https://gabri432.github.io/angular-personal-website/blog/education/university-or-not/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blog/sport/italian-basketball-team-journey/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blog/programming/why-i-love-angular/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gabri432.github.io/angular-personal-website/blog/gaming/why-boom-beach-is-better-than-clash-of-clans/</loc>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
